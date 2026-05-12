@@ -1,6 +1,7 @@
 # F-10
 
 F-10 is a smart wireless surveillance robot designed for warehouses and industrial environments.
+<img src="Screenshot%202026-05-12%20155655.png" width="500">
 
 ## Features
 
