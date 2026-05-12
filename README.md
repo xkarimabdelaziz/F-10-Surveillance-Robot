@@ -31,6 +31,11 @@ F-10 is a smart wireless surveillance robot designed for warehouses and industri
 
 The robot is designed to move wirelessly and monitor the environment in real time.  
 It can detect obstacles, fire, motion, and water, then react using alerts and warning systems.
+## Project Demo
+
+🎥 Demo Video:
+https://drive.google.com/drive/folders/12Wjc4oduFMCjTVsOvoJCBTglt1esOIqs?usp=sharing
+
 
 ## Authors
 
